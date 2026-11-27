@@ -1,0 +1,14 @@
+# Local runtime output
+node_modules/
+*.log
+*.jsonl
+*.bak
+*.tmp
+.env
+.env.*
+
+# Machine-specific maintenance artifacts
+backups/
+reports/local/
+screenshots/local/
+secrets/
